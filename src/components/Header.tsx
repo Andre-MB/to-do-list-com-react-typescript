@@ -1,10 +1,10 @@
 import React from 'react'
 
-type Props = {}
+import styles from './Header.module.css'
 
 const Header = () => {
   return (
-    <header>
+    <header className={styles.header}>
     <h1>Rect + TS To do</h1>
   </header>
   )
