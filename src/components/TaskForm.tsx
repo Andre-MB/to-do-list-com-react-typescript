@@ -42,8 +42,6 @@ const TaskForm = ({btnText, taskList, setTaskList, task, handleUpadate}: Props) 
       setTitle("")
       setDifficulty(0)
     }
-
-    
   }
 
   const handleChange = (e: ChangeEvent<HTMLInputElement>) => {
