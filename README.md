@@ -14,6 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+
 ### `home screen`
 
 <img src="https://i.postimg.cc/9XP8kLyZ/telatodoty.png">
@@ -25,3 +26,5 @@ You will also see any lint errors in the console.
 ### `edit task modal`
 
 <img src="https://i.postimg.cc/GhGyKfYn/Captura-de-tela-de-2024-03-11-19-31-07.png">
+
+
