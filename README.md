@@ -1,7 +1,7 @@
 # To do list with React + TS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And it is part of the complete TypeScript course at Hora de Codar by Matheus Battisti.
-
+ 
 ## Available Scripts
 
 In the project directory, you can run:
